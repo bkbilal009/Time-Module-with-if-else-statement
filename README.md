@@ -21,4 +21,4 @@ Learning to use built-in modules like datetime makes code more powerful and prac
 
 Even a beginner-level script can be turned into something meaningful with a little creativity
 
-By building this, I’m not just practicing Python syntax — I’m learning how to think like a developer who solves real-world problems with simple, elegant solutions. This mindset is what I want to keep growing as I move towards my goal of joining world-class engineering teams.
+By building this, I’m not just practicing Python syntax — I’m learning how to think like a developer who solves real-world problems with simple, elegant solutions. This mindset is what I want to keep growing as I move towards my goal of joining world-class engineering teams..
